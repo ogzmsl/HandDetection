@@ -2,8 +2,8 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/ogzmsl/HandDetection/blob/main/logo.svg">
-    <img src="/logo.svg" alt="" width="80" height="80">
+  <a href="https://github.com/ogzmsl/HandDetection/blob/main/ouz-logo.png">
+    <img src="/ouz-logo.png" alt="" width="" height="">
   </a>
 
   <h3 align="center">Python HandDetection</h3>
