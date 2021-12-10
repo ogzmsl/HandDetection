@@ -24,7 +24,7 @@
 
 [![product-screenshot]](https://pythonrepo.com/repo/cvzone-cvzone)
 
-It is a Computer vision package that makes it easy to operate image processing and AI functions. It mainly uses OpenCV and Mediapipe libraries.
+It is a Computer vision package that makes it easy to operate image processing and AI functions. It mainly uses OpenCV and Google Mediapipe libraries.
 
 Usage areas
 * Military Industry (submarine sonic wave scans), underwater imaging.
