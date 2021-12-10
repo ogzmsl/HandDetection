@@ -6,7 +6,7 @@
     <img src="/ouz-logo.png" alt="" width="" height="">
   </a>
 
-  <h3 align="center">Python HandDetection</h3>
+  <h3 align="center">Python Hand Detection</h3>
 
   <p align="center">
     Python with OpenCV - MediaPip Framework Hand Detection
