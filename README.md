@@ -32,7 +32,7 @@ Usage areas
 * Medicine.
 * Clarification of structures such as tumors, vessels, Tomography, Ultrasound.
 * Robotics, traffic, astronomy, radar, newspaper and photography industry applications
-* Vb..
+* Etc..
 
 Here we just do hand identification with a computer camera based on the basics.
 
